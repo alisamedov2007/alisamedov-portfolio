@@ -162,11 +162,12 @@
     }
     .about, .edu, .exp {
         font-size: 20px;
-        width: 300px;
+        width: 200px;
     }
     .write {
         font-size: 16px;
-        width: 300px; 
+        width: 200px; 
     }
 }
+
 
